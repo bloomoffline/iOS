@@ -34,8 +34,7 @@ By acting as a secure relay to each other, Bloom pushes the distance limits of B
 Each private message sent will hop onto nearby devices until it reaches the right recipient who will be the only one able to read it.
 Each public room message sent will hop onto all nearby devices and keep spreading around each user. By this way, Bloom can enable people to chat and share on large scale distance up to kilometers.
 
-![image](https://github.com/bloomoffline/iOS/assets/159130033/1cc4e8c9-ca36-4ae1-99c7-ce939b518ab3)
-
+![image-removebg-preview](https://github.com/bloomoffline/iOS/assets/159130033/a98001fb-9199-469d-8f78-7d2a9a4fc43e)
 
 
 <h1>
