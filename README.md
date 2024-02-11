@@ -1,14 +1,12 @@
 <p align="center">
-<img src="https://github.com/bloomoffline/Bloom_iOS/assets/159130033/b7eeb8c6-b5ec-4821-99c5-cc29ecb49cf9" width="25%" height="25%">
+<img src="https://github.com/bloomoffline/iOS/assets/159130033/0defa863-fd0f-4b21-8225-dd35819e093f" width="25%" height="25%">
 </p>
 <h1 align="center"> Bloom : Hyperlocal Offline Network
 </h1>
 <p align="center">
-<img src="https://github.com/bloomoffline/iOS/assets/159130033/14ac8956-a4d7-4875-a5b1-c317497a314f"  width="50%" height="50%"></p>
+<img src="https://github.com/bloomoffline/iOS/assets/159130033/d1accab1-1d00-4779-8e47-2bd481867f71"  width="50%" height="50%"></p>
 
 <br>
-
-
 
 
 <p>
@@ -17,7 +15,7 @@ Interact with people 100 meters (330ft) around you & beyond this distance throug
 </p>
 <br>
 <p align="center">
-<img width="50%" alt="image" src="https://github.com/bloomoffline/iOS/assets/159130033/6b57bac9-1807-491a-a434-70876a093788">
+<img width="50%" alt="image" src="https://github.com/bloomoffline/iOS/assets/159130033/a74ddf6f-ec80-4f06-ad3f-12043fd60e43">
 </p>
 
 <div id="badges">
@@ -35,9 +33,7 @@ By acting as a secure relay to each other, Bloom pushes the distance limits of B
 Each private message sent will hop onto nearby devices until it reaches the right recipient who will be the only one able to read it.
 Each public room message sent will hop onto all nearby devices and keep spreading around each user. By this way, Bloom can enable people to chat and share on large scale distance up to kilometers.
 
-![image](https://github.com/bloomoffline/iOS/assets/159130033/4b907a89-b51e-42fc-b118-9f6b4b191b9e)
-
-
+![image-removebg-preview](https://github.com/bloomoffline/iOS/assets/159130033/19179476-6360-4f80-a9c0-183dec6e4912)
 
 <h1>
 Main Features
@@ -56,8 +52,12 @@ Main Features
 App Instructions
 </h1>
 
-https://github.com/bloomoffline/iOS/assets/159130033/ae7f14b7-ede0-4324-82ad-ca14f6bad957
+
+
+https://github.com/bloomoffline/iOS/assets/159130033/6003edee-ac4a-402d-9b57-00c50c2e6070
+
+
 
 <br>
 
-Based on https://github.com/fwcd/distributed-chat and ported to Android
+Based on https://github.com/fwcd/distributed-chat, enhanced and ported to Android
